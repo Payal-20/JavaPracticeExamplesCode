@@ -1,0 +1,8 @@
+tree is hirarchical datastructure
+binary tree max two branch
+sibling node
+ancestors (parents)
+levels=
+depth=level
+subtree(left, right)
+-1=null node
